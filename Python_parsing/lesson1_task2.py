@@ -9,7 +9,7 @@ from pprint import pprint
 import json
 import requests
 
-token = 'keyAIzaSyAu2ec_1mHCzkU-YLk-WjRvj01-ew55yxs'
+token = ''
 
 url = 'https://www.googleapis.com/books/v1/volumes'
 text_find = 'harry'  # искомый текст
